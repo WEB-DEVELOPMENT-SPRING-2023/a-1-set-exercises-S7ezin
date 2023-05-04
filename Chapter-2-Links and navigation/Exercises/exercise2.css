@@ -1,0 +1,28 @@
+h1{
+    position: absolute;
+    right: 40%;
+    top: -2%;
+    border: 2px;
+    color: white;
+    padding: 25px 32px;
+    text-align: center;
+    text-decoration: line-through;
+    display: flexbox;
+    font-size: 30%;
+    
+}
+
+button{
+   
+    position: absolute;
+    right: 45%;
+    background-color: rgb(182, 7, 7);
+    border: 2px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:dashed;
+    display: flexbox;
+    font-size: 75%;
+    
+}
